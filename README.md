@@ -1,6 +1,8 @@
 ## Flutter practice
 
-First Flutter project.
+First Flutter project.  
+☄☄[Flutter2.0 정리노션](https://www.notion.so/Flutter-2-0-61c06b5c4ef64e5798f0d89284e26783)
+
 
 ## Getting Started
 
